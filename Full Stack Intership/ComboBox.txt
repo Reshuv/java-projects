@@ -1,0 +1,6 @@
+ComboBox class
+it is the drop down list having related component into it and a selected item always displayed on the top
+it is basically used for DOB, branch,cast selection
+
+assignment
+identify current age

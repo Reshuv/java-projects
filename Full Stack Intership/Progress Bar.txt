@@ -1,0 +1,6 @@
+Progress Bar
+
+1) It is used to represent status of the process using graphical component.
+2) It basically used for data transmission application, name highlighter application and downloading application.
+
+WAP to consturct applicatuon for name highlighter.
